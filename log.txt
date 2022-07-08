@@ -1,0 +1,6 @@
+
+        weather today:
+
+        test({"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":65.75,"feels_like":65.12,"temp_min":64,"temp_max":67.35,"pressure":1029,"humidity":66},"visibility":10000,"wind":{"speed":10.36,"deg":340},"clouds":{"all":100},"dt":1657189037,"sys":{"type":2,"id":2006068,"country":"GB","sunrise":1657165929,"sunset":1657225094},"timezone":3600,"id":2643743,"name":"London","cod":200})
+
+     brought to you by Savage from Magic land and Denis Matveev from Space
